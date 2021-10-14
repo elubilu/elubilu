@@ -3,7 +3,7 @@
 - 🌱 I’m recently completed MSc in Data Science
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me raselahmed.lucse@gmail.com
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elubilu" alt="Rasel Ahmed" /></a> </p>
+<p align="left"> <a href="https://github.com/elubilu/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elubilu" alt="Rasel Ahmed" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
