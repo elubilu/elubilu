@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @elubilu
 - 👀 I’m interested in Coding
-- 🌱 I’ve recently completed MSc in Data Science
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me raselahmed.lucse@gmail.com
 <p align="left"> <a href="https://github.com/elubilu/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elubilu" alt="Rasel Ahmed" /></a> </p>
